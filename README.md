@@ -15,7 +15,7 @@ A simple application to calculate Body Mass Index (BMI) using height and weight.
 4. Get your BMI result and health category.
 
 ## Technologies
-- Python / JavaScript / HTML (specify your language)
+- Tkinter(Python) or Any tech stack according to the requirement
 
 ## License
 This project is open source and free to use.
